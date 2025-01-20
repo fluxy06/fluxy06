@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on IDK
 - 📫 How to reach me /-/-/
 - 😄 Pronouns: -/-/-
-- ⚡ Fun fact: 17 yo
+- ⚡ Fun fact: 18 yo
 
 <!---
 fluxy06/fluxy06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
