@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @fluxy06
-- 👀 I’m interested in HTML/CSS/JS/REACT/FRONTEND
-- 🌱 I’m currently learning REACT/JS
+- 👀 I’m interested in Gooooolang! Knew Python, Java, JavaScript, Sql, HTML, CSS.
+- 🌱 I’m currently learning Go!
 - 💞️ I’m looking to collaborate on IDK
-- 📫 How to reach me /-/-/
-- 😄 Pronouns: -/-/-
-- ⚡ Fun fact: 18 yo
+- 📫 How to reach me 2000$
+- 😄 Pronouns: $_$
+- ⚡ Fun fact: 18-- y/o
 
 <!---
 fluxy06/fluxy06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
