@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @fluxy06
-- 👀 I’m interested in Gooooolang! Knew Python, Java, JavaScript, Sql, HTML, CSS.
-- 🌱 I’m currently learning Go!
+- 👀 I’m interested in Gooooolang! Docker, rest Api, gitLab, cybersecurity
+- 🌱 I’m currently learning: I already know everything :>
 - 💞️ I’m looking to collaborate on IDK
-- 📫 How to reach me 2000$
-- 😄 Pronouns: $_$
+- 😄 Interesting fact: I love sweets
 - ⚡ Fun fact: 18-- y/o
 
 <!---
