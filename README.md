@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fluxy06
-- 👀 I’m interested in Gooooolang! Docker, rest Api, gitLab, cybersecurity
+- 👀 I’m interested in Gooooolang! Docker, rest Api, gitLab, cybersecurity and frontend development🥸
 - 🌱 I’m currently learning: I already know everything :>
 - 💞️ I’m looking to collaborate on IDK
 - 😄 Interesting fact: I love sweets
